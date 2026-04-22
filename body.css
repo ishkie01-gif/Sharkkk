@@ -1,0 +1,40 @@
+body.Home_Fernando{
+    background-image: url('image/shark.jpg');
+    background-size: cover;
+    font-size: 30px;
+}
+body.Product_Fernando{
+    background-image: url(image/sark.jpg);
+    background-size: cover;
+    font-size: 30px;
+}
+body.About_Fernando{
+    background-image: url(image/backgroud.jpg);
+    background-size: cover; 
+    font-size: 30px;
+}
+body.Contact_Fernando{
+    background-image: url(image/shark.jpg);
+    background-size: cover;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(14, 14, 63);
+}
+h2{
+    font-size: 60px;
+    color: rgb(18, 18, 67);
+}
+h3{
+    font-size: 40px;
+    color: rgb(18, 18, 67);
+}
+h4{
+    font-size: 40px;
+    color: rgb(18, 18, 67);
+}
+p{
+    font-size: 25px;
+    color: rgb(18, 18, 67);
+}
